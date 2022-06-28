@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthicksuruliraj
+- 👋 Hi, I’m @karthick
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Machine Learning,MySql,Power BI,Tableau,Ms Excel,Statistics
 - 📫 How to reach me @ +91 9710121326
